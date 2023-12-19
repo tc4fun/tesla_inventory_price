@@ -1,5 +1,7 @@
 # Tesla Inventory Price Check
 
+Tesla Inventory uses some sort of dynamic pricing to give discount to different VINs, the price can go thousands lower than the listed price. But you have to place the order for a specific VIN on time before someone else snatch that deal. This is a script helping you to poll the price and send email notification to you when price is lower than your threshold.
+
 ## To setup
 
 ```
