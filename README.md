@@ -30,5 +30,13 @@ price_threshold: 47500 # if price is lower than this, send email
 
 `price_threshold` is the limit when a lower price is find, the script will send an email to the `recerver@gmail.com` address
 
+## To run
+
+After edit setting.yml to your needs, simply:
+```
+source .venv/bin/activate
+python3 price.py
+```
+## BTW.
 You can use my referring link, which gives you 6 month free super charging and 3 month free FSD: https://www.tesla.com/referral/tao125473
 
