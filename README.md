@@ -10,6 +10,8 @@ pip3 install -r requirements.txt
 
 ## Setting
 
+Edit `setting.yml` according to your need, for example:
+
 ```yml
 tesla_url: 'https://www.tesla.com/inventory/new/my?TRIM=LRAWD&arrangeby=plh&zip=08550&range=200&referral=tao125473'
 sender_email: sender_email@gmail.com
