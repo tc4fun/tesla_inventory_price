@@ -20,5 +20,11 @@ poll_interval_sec: 30 # poll every 30 second
 price_threshold: 47500 # if price is lower than this, send email
 ```
 
-The tesla_url will be the url you put in the browser to search tne inventory, you can use my referring link, which gives you 6 month free super charging and 3 month free FSD: https://www.tesla.com/referral/tao125473
+`tesla_url` is the url you put in the browser to search tne inventory, you can use your own URL, with correct filters selected.
+
+`sender_password` is the app password of sender_email@gmail, not the gmail password, following the [link](https://support.google.com/mail/answer/185833?hl=en) to create one.
+
+`price_threshold` is the limit when a lower price is find, the script will send an email to the `recerver@gmail.com` address
+
+You can use my referring link, which gives you 6 month free super charging and 3 month free FSD: https://www.tesla.com/referral/tao125473
 
