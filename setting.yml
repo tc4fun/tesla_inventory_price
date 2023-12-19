@@ -1,0 +1,7 @@
+tesla_url: 'https://www.tesla.com/inventory/new/my?TRIM=LRAWD&arrangeby=plh&zip=08550&range=200&referral=tao125473'
+sender_email: sender_email@gmail.com
+sender_password: 'ojca dtnk bhmb ggha'
+receipient_list:
+  - receiver@gmail.com
+poll_interval_sec: 30
+price_threshold: 47500
